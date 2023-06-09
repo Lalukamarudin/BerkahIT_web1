@@ -1,0 +1,24 @@
+section h2 {
+    color: red;
+}
+
+footer p {
+    color: yellow;
+}
+
+a:hover {
+    color:white;
+    background-color: black;
+}
+
+/* a:active { apayah */
+    color:white;
+    background-color: black;
+}
+
+a:visited {
+    color: pink;
+}
+ul li :first-child a {
+    color: aqua;
+}
